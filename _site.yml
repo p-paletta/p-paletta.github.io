@@ -1,0 +1,13 @@
+name: "Pietro Paletta"
+navbar:
+  title: "Pietro Paletta"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: Research.html
+      
+output:
+  html_document:
+    theme: sandstone
+output_dir: "."
