@@ -1,0 +1,12 @@
+---
+title: "Pietro Paletta"
+output:
+  html_document:
+    theme: sandstone
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Pietro Paletta and this is my website.
